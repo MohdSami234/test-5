@@ -1,0 +1,14 @@
+body{
+    background-color: cornflowerblue;}
+
+h1{
+    margin-left: 500px;
+}
+input{
+    margin-left: 600px;
+    border: black 3px solid;
+}
+button:hover{
+    cursor: pointer;
+}
+ 
